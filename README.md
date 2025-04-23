@@ -12,3 +12,4 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [Python](./algorithms/containsDuplicate/containsDuplicate.py) |Easy|
 |238|[Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Python](./algorithms/productOfArrayExceptSelf/productOfArrayExceptSelf.py) |Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [Python](./algorithms/slidingWindowMaximum/slidingWindowMaximum.py) |Hard|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Python](./algorithms/dailyTemperatures/dailyTemperatures.py) |Medium|
