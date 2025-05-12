@@ -18,3 +18,7 @@
 |1944|[Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/) | [Python](./algorithms/numberOfVisiblePeopleInAQueue/numberOfVisiblePeopleInAQueue.py) |Hard|
 
 ## SQL
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql584.sql) |Easy|
+|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql1757.sql) |Easy|
