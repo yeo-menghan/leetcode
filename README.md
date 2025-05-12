@@ -23,4 +23,6 @@
 |584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql584.sql) |Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql595.sql) |Easy|
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql1148.sql) |Easy|
+|1378|[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql1378.sql) |Easy|
+|1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql1683.sql) |Easy|
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql1757.sql) |Easy|
