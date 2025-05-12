@@ -21,6 +21,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql197.sql) |Easy|
+|570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql570.sql) |Medium|
 |577|[Employee Bonus](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql577.sql) |Easy|
 |584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql584.sql) |Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql595.sql) |Easy|
