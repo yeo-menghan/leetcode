@@ -16,3 +16,5 @@
 |647|[Panlindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Python](./algorithms/panlindromicSubstring/panlindromicSubstring.py) |Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [Python](./algorithms/dailyTemperatures/dailyTemperatures.py) |Medium|
 |1944|[Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/) | [Python](./algorithms/numberOfVisiblePeopleInAQueue/numberOfVisiblePeopleInAQueue.py) |Hard|
+
+## SQL
