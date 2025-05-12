@@ -33,3 +33,4 @@
 |1661|[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql1661.sql) |Easy|
 |1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql1683.sql) |Easy|
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql1757.sql) |Easy|
+|1934|[Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql1934.sql) |Medium|
