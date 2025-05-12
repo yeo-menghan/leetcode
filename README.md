@@ -26,6 +26,7 @@
 |595|[Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql595.sql) |Easy|
 |1068|[Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql1068.sql) |Easy|
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/select/sql1148.sql) |Easy|
+|1280|[Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql1280.sql) |Easy|
 |1378|[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql1378.sql) |Easy|
 |1581|[Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql1581.sql) |Easy|
 |1661|[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/?envType=study-plan-v2&envId=top-sql-50) | [SQL](./SQL/SQL-50/basic-joins/sql1661.sql) |Easy|
